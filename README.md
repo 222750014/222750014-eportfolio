@@ -38,10 +38,11 @@ I scored 80% overall. While I performed well on the question related to understa
 - <b>PERSONALITY ASSESSMENT   </b>
 
 <h4>EVIDENCE</h4>
-![Personality Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Personality%20Assessment.png)?raw=true)
-![Career Counselling Evidence 1](https://github.com/222750014/222750014-eportfolio/blob/main/Career%20Counselling.png?raw=true)
-![Career Counselling Evidence 2](https://github.com/222750014/222750014-eportfolio/blob/main/Personality%20Assessment.png)?raw=true)
+<p float="left">
+   <img src="https://github.com/222750014/222750014-eportfolio/blob/main/Personality%20Assessment.png?raw=true" width="300"/>
+  <img src="https://github.com/222750014/222750014-eportfolio/blob/main/Screenshot%202025-05-22%20193742.png?raw=true" width="300"/>
 
+</p>
 <h4>Reflection</h4>
 <p><b><i>Situation:</b></i>
 In my career development module, I completed a formative assessment focusing on Personality Assessment. This activity was intended to test my understanding of how different personality types align with specific career paths, and how personality and career matching can influence satisfaction and success in the workplace.</p>
