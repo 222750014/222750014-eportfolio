@@ -20,6 +20,10 @@ To prepare, I reviewed my notes and materials on career counselling, focusing on
 I successfully completed the assessment in 14 minutes and 30 seconds, achieving a full score of 100/100. This result reflects my solid grasp of the subject and my ability to apply theoretical knowledge in a practical format. It boosted my confidence and confirmed that I can clearly distinguish between key concepts in career development.</p>
   
 - <b>SKILLS AND INTERESTS </b>
+
+<h4>EVIDENCE</h4>
+
+<h4>Reflection</h4>
 <p><b><i>Situation:</b></i>
 As part of my learning journey, I participated in a formative assessment on the topic of Skills and Interests. The quiz was designed to test my understanding of important concepts such as values, transferable skills, and how interests can shape career choices. Although I submitted the assessment slightly late, I was eager to see how well I had grasped the topic. </p>
 <p><b><i>Task:</b></i>
@@ -31,6 +35,9 @@ I scored 80% overall. While I performed well on the question related to understa
 
 - <b>PERSONALITY ASSESSMENT   </b>
 
+<h4>EVIDENCE</h4>
+
+<h4>Reflection</h4>
 <p><b><i>Situation:</b></i>
 In my career development module, I completed a formative assessment focusing on Personality Assessment. This activity was intended to test my understanding of how different personality types align with specific career paths, and how personality and career matching can influence satisfaction and success in the workplace.</p>
 <p><b><i>Task:</b></i>
@@ -40,7 +47,11 @@ I spent a few minutes going through the questions carefully, applying what I had
 <p><b><i>Result:</b></i>
 I scored 80/100, indicating a solid grasp of the material, but also showing that there's room for improvement. I managed to answer most questions correctly, but a few responses showed that I need to strengthen my understanding of specific personality-career alignments.</p>
   
-- <b>CREATE A CV </b>   
+- <b>CREATE A CV </b>
+
+ <h4>EVIDENCE</h4>
+
+ <h4>Reflection</h4>
 <p><b><i>Situation:</b></i>
 As I began preparing for job applications and internship opportunities, I realized that I needed a well-structured CV to present my skills and experiences effectively. I had academic achievements and projects that demonstrated my capabilities, but I wasn’t sure how to organize them in a professional and compelling manner.</p>
 <p><b><i>Task:</b></i>
