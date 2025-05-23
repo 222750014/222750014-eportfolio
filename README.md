@@ -35,17 +35,8 @@ My task was to attempt and complete all the questions accurately, demonstrating 
 I spent a few minutes going through the questions carefully, applying what I had learned about personality types and their links to various professions. I recalled key associations (e.g., artistic individuals may prefer creative roles, while realistic types are drawn to hands-on work). I also reflected on my own personality to relate the concepts to real-life scenarios.</p>
 <p><b><i>Result:</b></i>
 I scored 80/100, indicating a solid grasp of the material, but also showing that there's room for improvement. I managed to answer most questions correctly, but a few responses showed that I need to strengthen my understanding of specific personality-career alignments.</p>
-- <b>CAREER COUNSELLING </b>   
-- <b>PERSONALITY ASSESSMENT   </b>
-<p><b><i>Situation:</b></i>
-As I began preparing for job applications and internship opportunities, I realized that I needed a well-structured CV to present my skills and experiences effectively. I had academic achievements and projects that demonstrated my capabilities, but I wasn’t sure how to organize them in a professional and compelling manner.</p>
-<p><b><i>Task:</b></i>
-My objective was to create a CV that clearly showcases my skills, education, work experience, and achievements in a way that aligns with industry expectations. I wanted to ensure that my CV was well-structured, easy to read, and tailored to the roles I was pursuing.</p>
-<p><b><i>Action:</b></i>
-I researched best practices for CV formatting, looking at various templates and guides to understand what employers expect. I categorized my qualifications, work experience, and skills, making sure to highlight my technical expertise in Java, Spring Boot, and web development. I also included sections for projects, ensuring I described my experience with database design, repository patterns, and agile methodologies in a concise yet impactful way. Additionally, I sought feedback from mentors and peers to refine my CV further.</p>
-<p><b><i>Result:</b></i>
-Through this process, I developed a strong, polished CV that effectively highlights my technical skills and achievements. I now feel more confident in applying for internships and job opportunities, knowing that my CV represents my capabilities in the best possible way. The experience taught me that creating a CV is not just about listing information—it’s about presenting myself as a capable, professional candidate.</p>
-
+  
+- <b>CREATE A CV </b>   
 <p><b><i>Situation:</b></i>
 As I began preparing for job applications and internship opportunities, I realized that I needed a well-structured CV to present my skills and experiences effectively. I had academic achievements and projects that demonstrated my capabilities, but I wasn’t sure how to organize them in a professional and compelling manner.</p>
 <p><b><i>Task:</b></i>
