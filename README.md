@@ -26,6 +26,9 @@ I successfully completed the assessment in 14 minutes and 30 seconds, achieving 
 
 <h4>EVIDENCE</h4>
 
+
+![SKILLS AND INTERESTS](https://github.com/222750014/222750014-eportfolio/blob/main/SKILLS%20AND%20INTERESTS.png?raw=true)
+
 <h4>Reflection</h4>
 <p><b><i>Situation:</b></i>
 As part of my learning journey, I participated in a formative assessment on the topic of Skills and Interests. The quiz was designed to test my understanding of important concepts such as values, transferable skills, and how interests can shape career choices. Although I submitted the assessment slightly late, I was eager to see how well I had grasped the topic. </p>
