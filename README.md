@@ -4,6 +4,10 @@
 <h2>👨‍💻E-PORTFOLIO:</h2>
 
 - <b>CAREER COUNSELLING </b>
+
+<h4>EVIDENCE</h4>
+
+
 <h4>Reflection</h4>
 <p><b><i>Situation:</b></i>As part of my coursework, I recently completed an online formative assessment on the topic of Career Counselling. The activity was designed to test my understanding of the purpose, goals, and outcomes of career counselling, including concepts such as goal setting, career planning, and distinguishing between hard and soft skills. </p>
 
@@ -54,10 +58,10 @@ Through this process, I developed a strong, polished CV that effectively highlig
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sesona | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Sesona | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sesona| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sesona | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [youtube]: https://www.youtube.com/@sonasiphosihle4424
@@ -65,7 +69,7 @@ Through this process, I developed a strong, polished CV that effectively highlig
 [linkedin]: https://linkedin.com/in/222750014
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**222750014/222750014-eportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
