@@ -57,7 +57,9 @@ I scored 80/100, indicating a solid grasp of the material, but also showing that
 
 
  <h4>EVIDENCE</h4>
+ 
 ![Create a CV Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Create%20a%20CV.png?raw=true)
+
  <h4>Reflection</h4>
 <p><b><i>Situation:</b></i>
 As I began preparing for job applications and internship opportunities, I realized that I needed a well-structured CV to present my skills and experiences effectively. I had academic achievements and projects that demonstrated my capabilities, but I wasn’t sure how to organize them in a professional and compelling manner.</p>
