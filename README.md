@@ -38,7 +38,7 @@ I scored 80% overall. While I performed well on the question related to understa
 - <b>PERSONALITY ASSESSMENT   </b>
 
 <h4>EVIDENCE</h4>
-![PERSONALITY ASSESSMENT Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Career%20Counselling.png?raw=true)
+![PERSONALITY ASSESSMENT Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Personality%20Assessment.png)?raw=true)
 ![PERSONALITY ASSESSMENT Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Career%20Counselling.png?raw=true)
 <h4>Reflection</h4>
 <p><b><i>Situation:</b></i>
