@@ -82,6 +82,7 @@ Overall, the career counselling experience was invaluable in shaping my perspect
  <h4>EVIDENCE</h4>
  
 [View the PDF](https://github.com/222750014/222750014-eportfolio/raw/main/Sesona%2BPanca%2BDocuments%2B(1)(1).pdf)
+![ CV SUBMISIION Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Cv%20submission.png?raw=true)
 
 
   <h4>Reflection</h4>
