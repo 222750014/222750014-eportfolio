@@ -83,6 +83,20 @@ Overall, the career counselling experience was invaluable in shaping my perspect
 
   <h4>Reflection</h4>
 
+<p><b><i>Situation:</b></i>
+I submitted my CV as part of my coursework requirements, aiming to demonstrate my skills and experiences relevant to my field of study.</p>
+
+<p><b><i>Task:</b></i>
+My objective was to create a professional CV that effectively showcases my qualifications, particularly my programming skills and work experience.</p>
+
+
+<p><b><i>Action:</b></i>
+I tailored my CV to highlight my education, work experience at ConsumerGuard, and relevant technical skills such as Java, HTML, CSS, and PHP. I also ensured the format was clear and professional.
+
+<p><b><i>Result:</b></i>
+As a result of my submission, I received constructive feedback from my instructor, which helped me identify strengths in my CV and areas for improvement. This process enhanced my understanding of professional presentation in my field.</p>
+
+
 
 
 
