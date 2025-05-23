@@ -7,6 +7,8 @@
 
 <h4>EVIDENCE</h4>
 
+![Career Counselling Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Career%20Counselling.png?raw=true)
+
 
 <h4>Reflection</h4>
 <p><b><i>Situation:</b></i>As part of my coursework, I recently completed an online formative assessment on the topic of Career Counselling. The activity was designed to test my understanding of the purpose, goals, and outcomes of career counselling, including concepts such as goal setting, career planning, and distinguishing between hard and soft skills. </p>
