@@ -46,17 +46,20 @@ I researched best practices for CV formatting, looking at various templates and 
 <p><b><i>Result:</b></i>
 Through this process, I developed a strong, polished CV that effectively highlights my technical skills and achievements. I now feel more confident in applying for internships and job opportunities, knowing that my CV represents my capabilities in the best possible way. The experience taught me that creating a CV is not just about listing information—it’s about presenting myself as a capable, professional candidate.</p>
 
+<p><b><i>Situation:</b></i>
+As I began preparing for job applications and internship opportunities, I realized that I needed a well-structured CV to present my skills and experiences effectively. I had academic achievements and projects that demonstrated my capabilities, but I wasn’t sure how to organize them in a professional and compelling manner.</p>
+<p><b><i>Task:</b></i>
+My objective was to create a CV that clearly showcases my skills, education, work experience, and achievements in a way that aligns with industry expectations. I wanted to ensure that my CV was well-structured, easy to read, and tailored to the roles I was pursuing.</p>
+<p><b><i>Action:</b></i>
+I researched best practices for CV formatting, looking at various templates and guides to understand what employers expect. I categorized my qualifications, work experience, and skills, making sure to highlight my technical expertise in Java, Spring Boot, and web development. I also included sections for projects, ensuring I described my experience with database design, repository patterns, and agile methodologies in a concise yet impactful way. Additionally, I sought feedback from mentors and peers to refine my CV further.</p>
+<p><b><i>Result:</b></i>
+Through this process, I developed a strong, polished CV that effectively highlights my technical skills and achievements. I now feel more confident in applying for internships and job opportunities, knowing that my CV represents my capabilities in the best possible way. The experience taught me that creating a CV is not just about listing information—it’s about presenting myself as a capable, professional candidate.</p>
 
 
 
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
 
 <h2> 🤳 Connect with me:</h2>
 
