@@ -1,7 +1,8 @@
 # 222750014-eportfolio
-<h1>Hi, I'm Sesona Panca!</h1>
 
-<h2>👨‍💻E-PORTFOLIO:</h2>
+
+
+<h2> Sesona Panca👨‍💻DIGITAL-PORTFOLIO:</h2>
 
 - <b>CAREER COUNSELLING </b>
 
@@ -62,15 +63,22 @@ I scored 80/100, indicating a solid grasp of the material, but also showing that
 
  <h4>Reflection</h4>
 <p><b><i>Situation:</b></i>
-As I began preparing for job applications and internship opportunities, I realized that I needed a well-structured CV to present my skills and experiences effectively. I had academic achievements and projects that demonstrated my capabilities, but I wasn’t sure how to organize them in a professional and compelling manner.</p>
+During my recent career counselling session, I was guided by a professional who helped me explore various career options based on my interests and skills. This experience was crucial as I am approaching a pivotal moment in my education where I need to make informed decisions about my future career path.</p>
 <p><b><i>Task:</b></i>
-My objective was to create a CV that clearly showcases my skills, education, work experience, and achievements in a way that aligns with industry expectations. I wanted to ensure that my CV was well-structured, easy to read, and tailored to the roles I was pursuing.</p>
+The main task was to identify my strengths, weaknesses, and potential career paths that align with my aspirations. I needed to reflect on my skills and interests to determine which careers might be a good fit for me.</p>
 <p><b><i>Action:</b></i>
-I researched best practices for CV formatting, looking at various templates and guides to understand what employers expect. I categorized my qualifications, work experience, and skills, making sure to highlight my technical expertise in Java, Spring Boot, and web development. I also included sections for projects, ensuring I described my experience with database design, repository patterns, and agile methodologies in a concise yet impactful way. Additionally, I sought feedback from mentors and peers to refine my CV further.</p>
+I engaged in several activities during the session, including:
+Completing self-assessment questionnaires to evaluate my interests and skills.Discussing different career options with the counsellor and asking questions about various fields.Setting short-term and long-term goals for my career development.</p>
 <p><b><i>Result:</b></i>
-Through this process, I developed a strong, polished CV that effectively highlights my technical skills and achievements. I now feel more confident in applying for internships and job opportunities, knowing that my CV represents my capabilities in the best possible way. The experience taught me that creating a CV is not just about listing information—it’s about presenting myself as a capable, professional candidate.</p>
+As a result of this session, I gained a clearer understanding of potential career paths and how to pursue them. I feel more empowered to make decisions about my education and future career, and I now have actionable steps to take in exploring these options further.
+Overall, the career counselling experience was invaluable in shaping my perspective on my future, allowing me to align my passions with realistic career choices.</p>
+
+- <b>CV SUBMISSION  </b>
 
 
+ <h4>EVIDENCE</h4>
+
+  <h4>Reflection</h4>
 
 
 
