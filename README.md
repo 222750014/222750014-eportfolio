@@ -100,6 +100,28 @@ I tailored my CV to highlight my education, work experience at ConsumerGuard, an
 <p><b><i>Result:</b></i>
 As a result of my submission, I received constructive feedback from my instructor, which helped me identify strengths in my CV and areas for improvement. This process enhanced my understanding of professional presentation in my field.</p>
 
+<b>Proffesional Networking</b>
+
+<h4>EVIDENCE</h4>
+
+<h4>Reflection</h4>
+
+<p><b><i>Situation</b></i>
+As part of my career development coursework, I was tasked with completing a formative assessment on professional networking. The module covered key concepts like the purpose of networking, common pitfalls, and how to build meaningful professional relationships.</p>
+  
+<p><b><i>Task</b></i>
+My goal was to demonstrate a solid understanding of networking fundamentals through a timed quiz. I needed to answer multiple-choice questions accurately and efficiently.</p>
+  
+<p><b><i>Action</b></i>
+I approached the quiz with focus and intent. My first attempt had a couple of missteps, but I quickly reviewed the questions, corrected my answers, and completed the entire module in just over six minutes. I made sure to reflect on the logic behind each question rather than just guessing — especially around the “golden rule” of networking and the first step in building a network.</p>
+  
+<p><b><i>Result</b></i>
+✅ Scored 100/100
+📚 Reinforced my understanding of how to build and maintain professional relationships — a skill I value highly as a developer working across teams.
+This module reminded me that networking isn’t just about exchanging contacts — it’s about building trust, offering value, and staying authentic. I’m looking forward to applying these insights in both tech and collaborative spaces.</p>
+
+
+
 
 
 
