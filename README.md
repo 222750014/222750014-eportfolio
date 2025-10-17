@@ -2,7 +2,10 @@
 
 
 
-<h2> Sesona Panca👨‍💻DIGITAL-PORTFOLIO:</h2>
+<div style="background-color:#f0f8ff; padding:20px;">
+  <h2>Sesona Panca👨‍💻DIGITAL-PORTFOLIO:</h2>
+  <p>This section has a light blue background.</p>
+</div>
 
 - <b>CAREER COUNSELLING </b>
 
