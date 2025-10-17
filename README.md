@@ -141,6 +141,8 @@ I completed the quiz in under three minutes, answering questions on how to handl
 This module helped me sharpen my awareness of how small actions shape professional impressions. As someone who values reliability and teamwork, I’ll carry these lessons into every collaboration.</p>
   
 <b>Business Communication </b>
+
+<h4>Reflection</h4>
   
 <p><b><i>Situation:</b></i>
 This module was part of my professional skills training, focused on effective communication in business settings. It covered verbal and non-verbal communication, tone, etiquette, and language use across different formats like email and video conferencing.</p>
@@ -156,7 +158,7 @@ I worked through the quiz in under nine minutes, answering questions on topics l
 - Etiquette for virtual backgrounds
 I initially missed one question about when to use formal language, but I corrected it in my second attempt — a quick reminder that context matters in communication.</p>
   
-<p><b><i>Resultn:</b></i>
+<p><b><i>Result:</b></i>
 ✅ Scored 100/100
 ⏱️ Completed in 8 minutes and 53 seconds
 📚 Strengthened my grasp of professional tone, clarity, and etiquette — all essential for cross-functional collaboration
@@ -164,6 +166,8 @@ I initially missed one question about when to use formal language, but I correct
 As someone who documents APIs and collaborates across backend/frontend boundaries, this module sharpened my ability to communicate with precision and professionalism.</p>
   
 <b>Interviwew Skills</b>
+
+<h4>Reflection</h4>
 
 <p><b><i>Situation:</b></i>
 This module was part of my career development coursework, designed to test my understanding of effective interview strategies. It covered key areas like answering common questions, researching companies, and using structured methods like CAR (Context, Action, Result).</p>
@@ -186,19 +190,31 @@ I focused on clarity and relevance in each answer, drawing from both theory and 
 🎯 Reinforced my confidence in navigating interviews with structure and authenticity
 📚 Learned how to turn common questions into opportunities to showcase value
 This module helped me sharpen my storytelling and self-presentation — skills I’ll carry into future interviews, client meetings, and team collaborations.</p>
+  
+  <b>Mock Interview Video</b>
 
+  <h4>Reflection</h4>
 
-
-
-
-
-
-
-
-
-
-
-
+  
+<p><b><i>Situation</b></i>
+This was a formative assignment designed to simulate a real job interview. I had to record myself responding to typical interview questions, demonstrating confidence, clarity, and structure.</p>
+  
+<p><b><i>Task</b></i>
+My goal was to deliver a strong mock interview performance, using techniques like the CAR method and tailoring my responses to reflect both my technical background and soft skills. I needed to show that I could handle common questions like “Tell me about yourself” and “What’s your greatest weakness” with authenticity and strategy.</p>
+  
+<p><b><i>Action</b></i>
+I prepared by reviewing my CV, practicing responses, and setting up a clean, distraction-free recording environment. I focused on:
+- Speaking clearly and professionally
+- Using the CAR method to structure my answers
+- Highlighting my backend development experience and collaborative mindset
+- Staying composed and confident throughout the video.</p>
+  
+<p><b><i>Result</b></i>
+🎥 Successfully submitted the video
+✅ Reinforced my ability to present myself in a structured, engaging way
+💬 Practiced translating technical experience into interview-ready language
+📚 Gained insight into how I come across on camera — tone, posture, and delivery
+This exercise helped me bridge the gap between backend expertise and personal branding. It’s one thing to write code — it’s another to communicate your value clearly and confidently. I’m proud of how I showed up in this mock interview and ready to refine even further for the real thing.</p>
 
 
 <h2> 🤳 Connect with me:</h2>
