@@ -106,19 +106,42 @@ As a result of my submission, I received constructive feedback from my instructo
 
 <h4>Reflection</h4>
 
-<p><b><i>Situation</b></i>
+<p><b><i>Situation:</b></i>
 As part of my career development coursework, I was tasked with completing a formative assessment on professional networking. The module covered key concepts like the purpose of networking, common pitfalls, and how to build meaningful professional relationships.</p>
   
-<p><b><i>Task</b></i>
+<p><b><i>Task:</b></i>
 My goal was to demonstrate a solid understanding of networking fundamentals through a timed quiz. I needed to answer multiple-choice questions accurately and efficiently.</p>
   
-<p><b><i>Action</b></i>
+<p><b><i>Action:</b></i>
 I approached the quiz with focus and intent. My first attempt had a couple of missteps, but I quickly reviewed the questions, corrected my answers, and completed the entire module in just over six minutes. I made sure to reflect on the logic behind each question rather than just guessing — especially around the “golden rule” of networking and the first step in building a network.</p>
   
-<p><b><i>Result</b></i>
+<p><b><i>Result:</b></i>
 ✅ Scored 100/100
 📚 Reinforced my understanding of how to build and maintain professional relationships — a skill I value highly as a developer working across teams.
 This module reminded me that networking isn’t just about exchanging contacts — it’s about building trust, offering value, and staying authentic. I’m looking forward to applying these insights in both tech and collaborative spaces.</p>
+
+<b>Workplace Etiquette</b>
+
+<h4>EVIDENCE</h4>
+
+<p><b><i>Situation</b></i>
+As part of my career development coursework, I was assessed on workplace etiquette — covering topics like communication, punctuality, confidentiality, and professional conduct.</p>
+  
+<p><b><i>Task</b></i>
+The goal was to complete a timed quiz that tested my understanding of appropriate workplace behavior in various scenarios. I needed to respond quickly and accurately to multiple-choice questions.</p>
+  
+<p><b><i>Action</b></i>
+I completed the quiz in under three minutes, answering questions on how to handle rude emails, manage confidential information, and use personal devices at work. I got most of them right, but missed one about meeting punctuality — I answered “9” instead of the expected “a few minutes early,” which reminded me how subtle workplace norms can be.</p>
+  
+<p><b><i>Result</b></i>
+✅ Scored 80/100
+⏱️ Completed in 2 minutes and 48 seconds
+📚 Reinforced my understanding of workplace professionalism, especially around communication and discretion
+💡 Learned to pay closer attention to behavioral expectations like punctuality — small details that make a big impact
+This module helped me sharpen my awareness of how small actions shape professional impressions. As someone who values reliability and teamwork, I’ll carry these lessons into every collaboration.</p>
+
+
+
 
 
 
