@@ -165,7 +165,7 @@ I initially missed one question about when to use formal language, but I correct
 💬 Reinforced how intentional communication builds trust and efficiency, especially in remote or asynchronous environments
 As someone who documents APIs and collaborates across backend/frontend boundaries, this module sharpened my ability to communicate with precision and professionalism.</p>
   
-<b>Interviwew Skills</b>
+<b>Interview Skills</b>
 
 <h4>Reflection</h4>
 
@@ -191,25 +191,25 @@ I focused on clarity and relevance in each answer, drawing from both theory and 
 📚 Learned how to turn common questions into opportunities to showcase value
 This module helped me sharpen my storytelling and self-presentation — skills I’ll carry into future interviews, client meetings, and team collaborations.</p>
   
-  <b>Mock Interview Video</b>
+<b>Mock Interview Video</b>
 
-  <h4>Reflection</h4>
+<h4>Reflection</h4>
 
   
-<p><b><i>Situation</b></i>
+<p><b><i>Situation:</b></i>
 This was a formative assignment designed to simulate a real job interview. I had to record myself responding to typical interview questions, demonstrating confidence, clarity, and structure.</p>
   
-<p><b><i>Task</b></i>
+<p><b><i>Task:</b></i>
 My goal was to deliver a strong mock interview performance, using techniques like the CAR method and tailoring my responses to reflect both my technical background and soft skills. I needed to show that I could handle common questions like “Tell me about yourself” and “What’s your greatest weakness” with authenticity and strategy.</p>
   
-<p><b><i>Action</b></i>
+<p><b><i>Action:</b></i>
 I prepared by reviewing my CV, practicing responses, and setting up a clean, distraction-free recording environment. I focused on:
 - Speaking clearly and professionally
 - Using the CAR method to structure my answers
 - Highlighting my backend development experience and collaborative mindset
 - Staying composed and confident throughout the video.</p>
   
-<p><b><i>Result</b></i>
+<p><b><i>Result:</b></i>
 🎥 Successfully submitted the video
 ✅ Reinforced my ability to present myself in a structured, engaging way
 💬 Practiced translating technical experience into interview-ready language
