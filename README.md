@@ -124,16 +124,16 @@ This module reminded me that networking isn’t just about exchanging contacts �
 
 <h4>EVIDENCE</h4>
 
-<p><b><i>Situation</b></i>
+<p><b><i>Situation:</b></i>
 As part of my career development coursework, I was assessed on workplace etiquette — covering topics like communication, punctuality, confidentiality, and professional conduct.</p>
   
-<p><b><i>Task</b></i>
+<p><b><i>Task:</b></i>
 The goal was to complete a timed quiz that tested my understanding of appropriate workplace behavior in various scenarios. I needed to respond quickly and accurately to multiple-choice questions.</p>
   
-<p><b><i>Action</b></i>
+<p><b><i>Action:</b></i>
 I completed the quiz in under three minutes, answering questions on how to handle rude emails, manage confidential information, and use personal devices at work. I got most of them right, but missed one about meeting punctuality — I answered “9” instead of the expected “a few minutes early,” which reminded me how subtle workplace norms can be.</p>
   
-<p><b><i>Result</b></i>
+<p><b><i>Result:</b></i>
 ✅ Scored 80/100
 ⏱️ Completed in 2 minutes and 48 seconds
 📚 Reinforced my understanding of workplace professionalism, especially around communication and discretion
@@ -142,13 +142,13 @@ This module helped me sharpen my awareness of how small actions shape profession
   
 <b>Business Communication </b>
   
-<p><b><i>Situation</b></i>
+<p><b><i>Situation:</b></i>
 This module was part of my professional skills training, focused on effective communication in business settings. It covered verbal and non-verbal communication, tone, etiquette, and language use across different formats like email and video conferencing.</p>
   
-<p><b><i>Task</b></i>
+<p><b><i>Task:</b></i>
 My task was to complete a timed quiz assessing my understanding of business communication principles. The questions tested both conceptual knowledge and practical judgment in workplace scenarios.</p>
   
-<p><b><i>Action</b></i>
+<p><b><i>Action:</b></i>
 I worked through the quiz in under nine minutes, answering questions on topics like:
 - The purpose of business communication
 - Non-verbal cues
@@ -156,7 +156,7 @@ I worked through the quiz in under nine minutes, answering questions on topics l
 - Etiquette for virtual backgrounds
 I initially missed one question about when to use formal language, but I corrected it in my second attempt — a quick reminder that context matters in communication.</p>
   
-<p><b><i>Resultn</b></i>
+<p><b><i>Resultn:</b></i>
 ✅ Scored 100/100
 ⏱️ Completed in 8 minutes and 53 seconds
 📚 Strengthened my grasp of professional tone, clarity, and etiquette — all essential for cross-functional collaboration
@@ -165,13 +165,13 @@ As someone who documents APIs and collaborates across backend/frontend boundarie
   
 <b>Interviwew Skills</b>
 
-<p><b><i>Situation</b></i>
+<p><b><i>Situation:</b></i>
 This module was part of my career development coursework, designed to test my understanding of effective interview strategies. It covered key areas like answering common questions, researching companies, and using structured methods like CAR (Context, Action, Result).</p>
   
-<p><b><i>Task</b></i>
+<p><b><i>Task:</b></i>
 My goal was to complete a timed quiz that assessed my readiness for job interviews. I needed to demonstrate practical knowledge of how to present myself, respond to typical questions, and show professionalism.</p>
   
-<p><b><i>Action</b></i>
+<p><b><i>Action:</b></i>
 I completed the quiz in under five minutes, answering questions on:
 - The purpose of interviews
 - The CAR method
@@ -180,7 +180,7 @@ I completed the quiz in under five minutes, answering questions on:
 - Handling the “greatest weakness” question
 I focused on clarity and relevance in each answer, drawing from both theory and personal experience. The CAR method especially resonated with me — it’s a great way to structure responses that highlight impact.</p>
   
-<p><b><i>Result</b></i>
+<p><b><i>Result:</b></i>
 ✅ Scored 100/100
 ⏱️ Completed in 4 minutes and 54 seconds
 🎯 Reinforced my confidence in navigating interviews with structure and authenticity
