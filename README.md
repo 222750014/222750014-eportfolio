@@ -1,10 +1,12 @@
+<!-- SESONA PANCA DIGITAL PORTFOLIO README -->
+
 <img src="https://github.com/222750014/222750014-eportfolio/blob/main/banner.png?raw=true" alt="Sesona Panca Digital Portfolio" width="100%">
 
-<h1 align="center">💻 SESONA PANCA — DIGITAL PORTFOLIO</h1>
+<h1 align="center">👨‍💻 SESONA PANCA — DIGITAL PORTFOLIO</h1>
 
 <p align="center">
-<b>Hello! I'm Sesona Panca</b> — an aspiring Information Systems professional passionate about software development, databases, and IT project management. 
-This digital portfolio showcases my academic achievements, professional growth, and practical experiences throughout my career development journey.
+<b>Information Systems Student | Aspiring Full-Stack Developer | Lifelong Learner</b><br>
+Driven by innovation, problem-solving, and a passion for connecting technology with business goals.
 </p>
 
 ---
@@ -20,216 +22,185 @@ This digital portfolio showcases my academic achievements, professional growth, 
 - [Mock Interview Video](#mock-interview-video)
 - [Professional Networking](#professional-networking)
 - [Workplace Etiquette](#workplace-etiquette)
-- [Career Goals](#-career-goals)
-- [Skills Summary](#-skills-summary)
-- [Final Reflection](#-final-reflection)
-- [Connect with Me](#-connect-with-me)
+- [Connect With Me](#-connect-with-me)
 
 ---
 
-## 🎯 Career Counselling
+## 🎯 CAREER COUNSELLING  
 
-### 🖼️ Evidence
+<h4>EVIDENCE</h4>
+
 ![Career Counselling Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Career%20Counselling.png?raw=true)
 
-### 🪞 Reflection
-**Situation:** As part of my coursework, I recently completed an online formative assessment on the topic of Career Counselling. The activity was designed to test my understanding of the purpose, goals, and outcomes of career counselling, including concepts such as goal setting, career planning, and distinguishing between hard and soft skills.  
+<h4>Reflection</h4>
 
-**Task:** My objective was to complete all the questions accurately and within the given time, demonstrating a clear understanding of career development principles and how they apply in a real-world counselling context.  
+<p><b><i>Situation:</b></i>As part of my coursework, I recently completed an online formative assessment on the topic of Career Counselling. The activity was designed to test my understanding of the purpose, goals, and outcomes of career counselling, including concepts such as goal setting, career planning, and distinguishing between hard and soft skills.</p>
 
-**Action:** To prepare, I reviewed my notes and materials on career counselling, focusing on key topics such as the purpose of setting goals in counselling, the outcomes of effective sessions, and identifying examples of hard skills.  
+<p><b><i>Task:</b></i>My objective was to complete all the questions accurately and within the given time, demonstrating a clear understanding of career development principles and how they apply in a real-world counselling context.</p>
+  
+<p><b><i>Action:</b></i>To prepare, I reviewed my notes and materials on career counselling, focusing on key topics such as the purpose of setting goals in counselling, the outcomes of effective sessions, and identifying examples of hard skills. During the assessment, I carefully read each question, recalled related theory, and applied critical thinking to choose the best answers.</p>
 
-**Result:** I successfully completed the assessment in 14 minutes and 30 seconds, achieving a full score of 100/100. This result reflects my solid grasp of the subject and boosted my confidence in applying theory to practice.  
-
-💡 *This activity improved my ability to link theory to practical career planning and reinforced my confidence in professional self-assessment.*
-
----
-
-## 🌱 Skills and Interests
-
-### 🖼️ Evidence
-![Skills and Interests](https://github.com/222750014/222750014-eportfolio/blob/main/SKILLS%20AND%20INTERESTS.png?raw=true)
-
-### 🪞 Reflection
-**Situation:** I participated in a formative assessment on the topic of Skills and Interests. The quiz tested my understanding of values, transferable skills, and how interests shape career choices.  
-
-**Task:** My goal was to apply my knowledge about values and interests to career development contexts and identify areas for improvement.  
-
-**Action:** I completed the assessment quickly, applying what I understood about values and interests, but I realized I rushed through some questions.  
-
-**Result:** I scored 80%. While I performed well on understanding values, I made mistakes around transferable skills.  
-
-💡 *I learned that speed is less important than accuracy. Going forward, I’ll focus more deeply on connecting transferable skills to real job requirements.*
+<p><b><i>Result:</b></i>I successfully completed the assessment in 14 minutes and 30 seconds, achieving a full score of 100/100. This result reflects my solid grasp of the subject and my ability to apply theoretical knowledge in a practical format. It boosted my confidence and confirmed that I can clearly distinguish between key concepts in career development.</p>
 
 ---
 
-## 🧩 Personality Assessment
+## 🧩 SKILLS AND INTERESTS  
 
-### 🖼️ Evidence
+<h4>EVIDENCE</h4>
+
+![SKILLS AND INTERESTS](https://github.com/222750014/222750014-eportfolio/blob/main/SKILLS%20AND%20INTERESTS.png?raw=true)
+
+<h4>Reflection</h4>
+
+<p><b><i>Situation:</b></i>As part of my learning journey, I participated in a formative assessment on the topic of Skills and Interests. The quiz was designed to test my understanding of important concepts such as values, transferable skills, and how interests can shape career choices. Although I submitted the assessment slightly late, I was eager to see how well I had grasped the topic.</p>
+
+<p><b><i>Task:</b></i>My goal was to complete the assessment to the best of my ability, applying the knowledge I had learned about values, skills, and interests in the context of career development. It was also important for me to identify any areas where I needed to improve.</p>
+
+<p><b><i>Action:</b></i>I completed the assessment quickly, spending just over a minute answering all the questions. I applied what I understood about the role of values in guiding career decisions and the differences between skills and interests. However, I realized that I rushed through some questions, which may have affected my accuracy.</p>
+
+<p><b><i>Result:</b></i>I scored 80% overall. While I performed well on the question related to understanding values, I made mistakes on questions involving transferable skills and accurately defining interests. This result highlighted areas that require more focused revision and deeper understanding.</p>
+
+---
+
+## 🧠 PERSONALITY ASSESSMENT  
+
+<h4>EVIDENCE</h4>
+
 <p float="left">
    <img src="https://github.com/222750014/222750014-eportfolio/blob/main/Personality%20Assessment.png?raw=true" width="300"/>
-  <img src="https://github.com/222750014/222750014-eportfolio/blob/main/Screenshot%202025-05-22%20193742.png?raw=true" width="300"/>
+   <img src="https://github.com/222750014/222750014-eportfolio/blob/main/Screenshot%202025-05-22%20193742.png?raw=true" width="300"/>
 </p>
 
-### 🪞 Reflection
-**Situation:** I completed a formative assessment focusing on personality and career alignment.  
+<h4>Reflection</h4>
 
-**Task:** To apply my understanding of personality types and how they relate to different career paths.  
+<p><b><i>Situation:</b></i>In my career development module, I completed a formative assessment focusing on Personality Assessment. This activity was intended to test my understanding of how different personality types align with specific career paths, and how personality and career matching can influence satisfaction and success in the workplace.</p>
 
-**Action:** I carefully reviewed each question and reflected on how my personality aligns with real-world roles.  
+<p><b><i>Task:</b></i>My task was to attempt and complete all the questions accurately, demonstrating knowledge of personality theory and its practical application in career decision-making. I also aimed to better understand the traits associated with types such as "Realistic" and "Artistic".</p>
 
-**Result:** I scored 80/100, showing a solid grasp of theory but room for improvement in understanding certain personality-career alignments.  
+<p><b><i>Action:</b></i>I spent a few minutes going through the questions carefully, applying what I had learned about personality types and their links to various professions. I recalled key associations (e.g., artistic individuals may prefer creative roles, while realistic types are drawn to hands-on work). I also reflected on my own personality to relate the concepts to real-life scenarios.</p>
 
-💡 *This assessment helped me understand the importance of self-awareness and how aligning personality with career choice leads to satisfaction and success.*
+<p><b><i>Result:</b></i>I scored 80/100, indicating a solid grasp of the material, but also showing that there's room for improvement. I managed to answer most questions correctly, but a few responses showed that I need to strengthen my understanding of specific personality-career alignments.</p>
 
 ---
 
-## 🧾 Create a CV
+## 📝 CREATE A CV  
 
-### 🖼️ Evidence
+<h4>EVIDENCE</h4>
+
 ![Create a CV Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Create%20a%20CV.png?raw=true)
 
-### 🪞 Reflection
-**Situation:** During a guided career counselling session, I explored career options based on my interests and skills.  
+<h4>Reflection</h4>
 
-**Task:** Identify strengths, weaknesses, and career paths that align with my goals.  
+<p><b><i>Situation:</b></i>During my recent career counselling session, I was guided by a professional who helped me explore various career options based on my interests and skills. This experience was crucial as I am approaching a pivotal moment in my education where I need to make informed decisions about my future career path.</p>
 
-**Action:** I engaged in self-assessment, goal setting, and discussions with a counsellor.  
+<p><b><i>Task:</b></i>The main task was to identify my strengths, weaknesses, and potential career paths that align with my aspirations. I needed to reflect on my skills and interests to determine which careers might be a good fit for me.</p>
 
-**Result:** I gained clarity on career paths and how to align my passions with realistic goals.  
+<p><b><i>Action:</b></i>I engaged in several activities during the session, including self-assessment questionnaires, discussions with my counsellor, and setting both short-term and long-term career goals.</p>
 
-💡 *This process improved my career awareness and gave me a structured approach to personal and professional development.*
-
----
-
-## 📄 CV Submission
-
-### 🖼️ Evidence
-[📎 View PDF](https://github.com/222750014/222750014-eportfolio/raw/main/Sesona%2BPanca%2BDocuments%2B(1)(1).pdf)  
-![CV Submission Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Cv%20submission.png?raw=true)
-
-### 🪞 Reflection
-**Situation:** I submitted my professional CV as part of my coursework.  
-
-**Task:** Create a clear, technical, and well-structured CV showcasing my education and programming experience.  
-
-**Action:** Highlighted my experience at ConsumerGuard, and my skills in Java, HTML, CSS, and PHP.  
-
-**Result:** Received valuable feedback to enhance formatting and structure.  
-
-💡 *This strengthened my ability to present myself professionally in the IT field.*
+<p><b><i>Result:</b></i>As a result, I gained a clearer understanding of my potential career paths and actionable steps to pursue them. I now feel more empowered and focused in aligning my interests with realistic professional opportunities.</p>
 
 ---
 
-## 💬 Business Communication
+## 📄 CV SUBMISSION  
 
-### 🖼️ Evidence
+<h4>EVIDENCE</h4>
+
+[View the PDF](https://github.com/222750014/222750014-eportfolio/raw/main/Sesona%2BPanca%2BDocuments%2B(1)(1).pdf)  
+![CV SUBMISSION Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Cv%20submission.png?raw=true)
+
+<h4>Reflection</h4>
+
+<p><b><i>Situation:</b></i>I submitted my CV as part of my coursework requirements, aiming to demonstrate my skills and experiences relevant to my field of study.</p>
+
+<p><b><i>Task:</b></i>My objective was to create a professional CV that effectively showcases my qualifications, particularly my programming skills and work experience.</p>
+
+<p><b><i>Action:</b></i>I tailored my CV to highlight my education, experience at ConsumerGuard, and technical skills in Java, HTML, CSS, and PHP. I also ensured the format was professional and visually appealing.</p>
+
+<p><b><i>Result:</b></i>I received constructive feedback from my instructor, which helped me refine my CV further. This process enhanced my understanding of professional documentation and presentation.</p>
+
+---
+
+## 💬 BUSINESS COMMUNICATION  
+
+<h4>EVIDENCE</h4>
+
 ![Business Communication Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Business%20Cmmunication.png?raw=true)
 
-### 🪞 Reflection
-**Situation:** The module focused on verbal and non-verbal communication in professional settings.  
+<h4>Reflection</h4>
 
-**Task:** Complete a timed quiz assessing communication principles.  
-
-**Action:** I worked efficiently and applied knowledge of tone, etiquette, and professional communication.  
-
-**Result:** ✅ 100/100 | ⏱️ 8 min 53 sec  
-💬 Reinforced clarity, etiquette, and precision in professional exchanges.  
-
-💡 *This strengthened my ability to communicate across technical and non-technical teams.*
+<p><b><i>Situation:</b></i>This module was part of my professional skills training, focused on effective communication in business settings.</p>
+<p><b><i>Task:</b></i>My task was to complete a timed quiz assessing my understanding of communication principles, etiquette, and tone.</p>
+<p><b><i>Action:</b></i>I worked through questions about business tone, non-verbal cues, and professionalism, finishing in under nine minutes. I corrected one mistake on formal language in my second attempt.</p>
+<p><b><i>Result:</b></i>✅ Scored 100/100 — this exercise improved my clarity, tone, and etiquette in professional communication, vital for collaboration and leadership.</p>
 
 ---
 
-## 🎙️ Interview Skills
+## 🎙️ INTERVIEW SKILLS  
 
-### 🖼️ Evidence
+<h4>EVIDENCE</h4>
+
 ![Interview Skills Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Interview%20Skills.png?raw=true)
 
-### 🪞 Reflection
-**Situation:** I completed an interview skills quiz as part of my career readiness module.  
+<h4>Reflection</h4>
 
-**Action:** Applied the CAR (Context, Action, Result) method to structure answers.  
-
-**Result:** ✅ 100/100 | ⏱️ 4 min 54 sec  
-💡 *I learned how to present my technical experiences through clear and confident storytelling.*
-
----
-
-## 🎥 Mock Interview Video
-
-### 🪞 Reflection
-**Situation:** I recorded a mock interview to simulate a real job interview experience.  
-
-**Action:** Prepared structured answers, maintained professional posture, and focused on clarity and confidence.  
-
-**Result:** 🎥 Successfully submitted | 💬 Gained self-awareness and improved delivery skills.  
-
-💡 *This activity bridged the gap between technical ability and self-presentation — skills essential for real interviews.*
+<p><b><i>Situation:</b></i>This module focused on developing effective interview strategies, including confidence and structured responses.</p>
+<p><b><i>Task:</b></i>My goal was to demonstrate readiness for professional interviews using structured methods like CAR.</p>
+<p><b><i>Action:</b></i>I completed a quiz covering key topics like research, company knowledge, and how to handle “Tell me about yourself.”</p>
+<p><b><i>Result:</b></i>✅ Scored 100/100 — reinforced my confidence in interviews and strengthened my storytelling ability through the CAR method.</p>
 
 ---
 
-## 🌐 Professional Networking
+## 🎥 MOCK INTERVIEW VIDEO  
 
-### 🖼️ Evidence
+<h4>Reflection</h4>
+
+<p><b><i>Situation:</b></i>This assignment simulated a real interview, requiring me to record myself answering common questions.</p>
+<p><b><i>Task:</b></i>Deliver a confident, professional interview showcasing both technical and soft skills.</p>
+<p><b><i>Action:</b></i>I prepared using the CAR method, reviewed my CV, and practiced delivery, tone, and eye contact before recording.</p>
+<p><b><i>Result:</b></i>🎥 Successfully recorded a professional mock interview — strengthened self-presentation and communication clarity.</p>
+
+---
+
+## 🌐 PROFESSIONAL NETWORKING  
+
+<h4>EVIDENCE</h4>
+
 ![Professional Networking Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Proffessional%20Networking.png?raw=true)
 
-### 🪞 Reflection
-**Situation:** I completed a quiz on professional networking principles.  
+<h4>Reflection</h4>
 
-**Action:** Focused on understanding the “golden rule” of networking — authenticity and mutual value.  
-
-**Result:** ✅ 100/100 | ⏱️ 6 minutes  
-💡 *I learned that networking is about genuine connections, not just exchanging contacts.*
+<p><b><i>Situation:</b></i>I completed a formative assessment on professional networking.</p>
+<p><b><i>Task:</b></i>To understand networking’s importance and demonstrate knowledge through a timed quiz.</p>
+<p><b><i>Action:</b></i>I approached the quiz carefully, corrected mistakes, and reflected on key networking principles like the “golden rule.”</p>
+<p><b><i>Result:</b></i>✅ Scored 100/100 — learned that networking is about building trust and authentic relationships, not just exchanging contacts.</p>
 
 ---
 
-## 🏢 Workplace Etiquette
+## 🏢 WORKPLACE ETIQUETTE  
 
-### 🖼️ Evidence
+<h4>EVIDENCE</h4>
+
 ![Workplace Etiquette Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Workplace%20etiquette.png?raw=true)
 
-### 🪞 Reflection
-**Situation:** I completed a quiz on workplace professionalism and behavior.  
+<h4>Reflection</h4>
 
-**Result:** ✅ 80/100 | ⏱️ 2 min 48 sec  
-💡 *This module taught me how subtle behaviors — like punctuality and communication tone — shape professional reputation.*
-
----
-
-## 💼 Career Goals
-My goal is to become a **full-stack developer or systems analyst**, contributing to digital solutions that improve business efficiency.  
-I’m passionate about **database systems, backend development, and collaborative teamwork** in agile environments.  
+<p><b><i>Situation:</b></i>This quiz tested workplace professionalism, communication, and behavior.</p>
+<p><b><i>Task:</b></i>To answer multiple-choice questions on ethics, punctuality, and discretion.</p>
+<p><b><i>Action:</b></i>I completed the quiz in under three minutes, missing one question about punctuality but learning the subtlety of professional norms.</p>
+<p><b><i>Result:</b></i>✅ Scored 80/100 — reinforced my understanding of professionalism and the importance of details like punctuality and etiquette.</p>
 
 ---
 
-## 🧰 Skills Summary
-
-**Technical Skills:** Java, HTML, CSS, PHP, SQL, JDBC, Git, Socket Programming  
-**Soft Skills:** Teamwork, Communication, Problem Solving, Adaptability, Time Management  
-**Tools:** Visual Studio Code, NetBeans, MySQL, GitHub, Figma, Trello  
-
----
-
-## 📊 GitHub Stats
-![Sesona's GitHub stats](https://github-readme-stats.vercel.app/api?username=222750014&show_icons=true&theme=tokyonight)
-
----
-
-## 🌱 Final Reflection
-Throughout this portfolio, I’ve grown both technically and professionally.  
-From mastering business communication and interview techniques to deepening my programming and analytical skills,  
-each experience has strengthened my identity as an aspiring Information Systems professional.  
-
-This journey has taught me that success in tech isn’t just about coding — it’s about **continuous learning, reflection, and collaboration.**
-
----
-
-## 🤳 Connect with Me
+<h2>🤳 Connect With Me</h2>
 
 [<img align="left" alt="Sesona | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Sesona | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sesona| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sesona | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/@sonasiphosihle4424
-[instagram]: https://www.instagram.com/sona_siphosihle/
+[youtube]: https://www.youtube.com/@sonasiphosihle4424  
+[instagram]: https://www.instagram.com/sona_siphosihle/  
 [linkedin]: https://linkedin.com/in/222750014
+
+---
+
+⭐ *“Your growth is the story of your effort, reflection, and resilience.”*
