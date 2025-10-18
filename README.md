@@ -99,7 +99,8 @@ As a result of my submission, I received constructive feedback from my instructo
   
 <b>Business Communication </b>
  <h4>EVIDENCE</h4>
-![Business Communication Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Cv%20submission.png?raw=true)
+ 
+![Business Communication Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Business%20Cmmunication.png?raw=true)
 
 
 <h4>Reflection</h4>
