@@ -1,4 +1,6 @@
-<h1>SESONA PANCA👨‍💻DIGITAL-PORTFOLIO:</h1>
+<h1>SESONA PANCA👨‍💻DIGITAL-PORTFOLIO</h1>
+
+
  
 
 - <b>CAREER COUNSELLING </b>
@@ -97,7 +99,7 @@ I tailored my CV to highlight my education, work experience at ConsumerGuard, an
 <p><b><i>Result:</b></i>
 As a result of my submission, I received constructive feedback from my instructor, which helped me identify strengths in my CV and areas for improvement. This process enhanced my understanding of professional presentation in my field.</p>
   
-<b>Business Communication </b>
+- <b>Business Communication </b>
  <h4>EVIDENCE</h4>
  
 ![Business Communication Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Business%20Cmmunication.png?raw=true)
@@ -126,7 +128,7 @@ I initially missed one question about when to use formal language, but I correct
 💬 Reinforced how intentional communication builds trust and efficiency, especially in remote or asynchronous environments
 As someone who documents APIs and collaborates across backend/frontend boundaries, this module sharpened my ability to communicate with precision and professionalism.</p>
   
-<b>Interview Skills</b>
+- <b>Interview Skills</b>
  <h4>EVIDENCE</h4>
  
 ![Interview Skills Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Interview%20Skills.png?raw=true)
@@ -154,7 +156,7 @@ I focused on clarity and relevance in each answer, drawing from both theory and 
 📚 Learned how to turn common questions into opportunities to showcase value
 This module helped me sharpen my storytelling and self-presentation — skills I’ll carry into future interviews, client meetings, and team collaborations.</p>
   
-<b>Mock Interview Video</b>
+- <b>Mock Interview Video</b>
 
 <h4>Reflection</h4>
 
@@ -179,7 +181,7 @@ I prepared by reviewing my CV, practicing responses, and setting up a clean, dis
 📚 Gained insight into how I come across on camera — tone, posture, and delivery
 This exercise helped me bridge the gap between backend expertise and personal branding. It’s one thing to write code — it’s another to communicate your value clearly and confidently. I’m proud of how I showed up in this mock interview and ready to refine even further for the real thing.</p>
 
-<b>Proffesional Networking</b>
+-<b>Proffesional Networking</b>
 
 <h4>EVIDENCE</h4>
 
@@ -202,7 +204,7 @@ I approached the quiz with focus and intent. My first attempt had a couple of mi
 📚 Reinforced my understanding of how to build and maintain professional relationships — a skill I value highly as a developer working across teams.
 This module reminded me that networking isn’t just about exchanging contacts — it’s about building trust, offering value, and staying authentic. I’m looking forward to applying these insights in both tech and collaborative spaces.</p>
 
-<b>Workplace Etiquette</b>
+- <b>Workplace Etiquette</b>
 
 <h4>EVIDENCE</h4>
 
