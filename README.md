@@ -127,7 +127,9 @@ I initially missed one question about when to use formal language, but I correct
 As someone who documents APIs and collaborates across backend/frontend boundaries, this module sharpened my ability to communicate with precision and professionalism.</p>
   
 <b>Interview Skills</b>
-
+ <h4>EVIDENCE</h4>
+ 
+![Interview Skills Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Interview%20Skills.png?raw=true)
 <h4>Reflection</h4>
 
 <p><b><i>Situation:</b></i>
@@ -181,6 +183,9 @@ This exercise helped me bridge the gap between backend expertise and personal br
 
 <h4>EVIDENCE</h4>
 
+![Proffesional Networking Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Proffessional%20Networking.png?raw=true)
+
+
 <h4>Reflection</h4>
 
 <p><b><i>Situation:</b></i>
@@ -200,6 +205,11 @@ This module reminded me that networking isn’t just about exchanging contacts �
 <b>Workplace Etiquette</b>
 
 <h4>EVIDENCE</h4>
+
+![Workplace Etiquette Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Workplace%20etiquette.png?raw=true)
+
+
+
 
 <p><b><i>Situation:</b></i>
 As part of my career development coursework, I was assessed on workplace etiquette — covering topics like communication, punctuality, confidentiality, and professional conduct.</p>
