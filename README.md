@@ -151,7 +151,9 @@ Driven by innovation, problem-solving, and a passion for connecting technology w
 ## 🎥 MOCK INTERVIEW VIDEO  
 
 <h4>EVIDENCE</h4>
-https://github.com/wil-it2025/cv-tutorial-222750014/blob/main/Mock%20Interview%20Video.mp4
+
+
+![ MOCK INTERVIEW VIDEO  Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Mock%20Interview.png?raw=true)
 
 <h4>Reflection</h4>
 
