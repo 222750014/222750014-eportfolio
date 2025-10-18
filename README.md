@@ -1,5 +1,3 @@
-<img src="https://github.com/222750014/222750014-eportfolio/blob/main/banner.png?raw=true" alt="Sesona Panca Digital Portfolio" width="100%">
-
 <h1 align="center">👨‍💻 SESONA PANCA — DIGITAL PORTFOLIO</h1>
 
 <p align="center">
