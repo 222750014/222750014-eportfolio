@@ -1,11 +1,5 @@
-# 222750014-eportfolio
-
-
-
-<div style="background-color:#f0f8ff; padding:20px;">
-  <h2>Sesona Panca👨‍💻DIGITAL-PORTFOLIO:</h2>
-  <p>This section has a light blue background.</p>
-</div>
+<h1>SESONA PANCA👨‍💻DIGITAL-PORTFOLIO:</h1>
+ 
 
 - <b>CAREER COUNSELLING </b>
 
@@ -104,6 +98,9 @@ I tailored my CV to highlight my education, work experience at ConsumerGuard, an
 As a result of my submission, I received constructive feedback from my instructor, which helped me identify strengths in my CV and areas for improvement. This process enhanced my understanding of professional presentation in my field.</p>
   
 <b>Business Communication </b>
+ <h4>EVIDENCE</h4>
+![Business Communication Evidence](https://github.com/222750014/222750014-eportfolio/blob/main/Cv%20submission.png?raw=true)
+
 
 <h4>Reflection</h4>
   
